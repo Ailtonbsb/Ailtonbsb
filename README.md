@@ -26,5 +26,6 @@ Estou fazendo uma transição de carreira profissional e comecei a estudar o Cur
   
 </div>
   
+  
 ## Links úteis
 [Sintaxe Básica Markedown](https://www.markdownguide.org/getting-started/)
