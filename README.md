@@ -20,7 +20,7 @@ adiquirir e compartilhar novos conhecimentos.
   
 </div>
 
-### Se você quiser entrar em contato comigo, aqui está minhas principais midias!: ⤵️  
+## Se você quiser entrar em contato comigo, aqui estão minhas principais midias!: ⤵️  
 <div> 
   <a href="https://instagram.com/ailtonbsb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href ="mailto:ailtonbsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
