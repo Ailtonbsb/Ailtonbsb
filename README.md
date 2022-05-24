@@ -1,12 +1,12 @@
 
 #  Olá, sou Ailton Macêdo!! 👋
 </div>
-<img align="right" alt="Ailton-img" height="350" width="350"src="https://cdn.discordapp.com/attachments/777657638460325918/978502580202242108/dev-carreira.jpg">
+<img align="right" alt="Ailton-img" height="250" width="400"src="https://cdn.discordapp.com/attachments/777657638460325918/978502580202242108/dev-carreira.jpg">
 </div>
 Estou fazendo uma transição de carreira profissional e comecei a estudar o Curso de Analise e Desenvolvimento de Sistemas. Trabalhei em algumas empresas na área financeira e em grandes bancos, atuando no setor operacional e comercial. Estou disposto colocar minhas habilidades em prática, colaborar com equipes de trabalho, 
 adiquirir e compartilhar novos conhecimentos.
 
-###  🚀Minhas Skills:    
+##  🚀Minhas Skills:    
  </div>
  
 <div style="display: inline_block"><br>
