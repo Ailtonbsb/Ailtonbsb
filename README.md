@@ -2,9 +2,7 @@
 
 Estou fazendo uma transição de carreira profissional e comecei a estudar o Curso de Analise e Desenvolvimento de Sistemas. Trabalhei em algumas empresas na área financeira e em grandes bancos, atuando no setor operacional e comercial. Estou disposto colocar minhas habilidades em prática, colaborar com equipes de trabalho, 
 adiquirir e compartilhar novos conhecimentos.
- </div>
-<img align="right" alt="Ailton-img" height="400" width="400"src="https://cdn.discordapp.com/attachments/777657638460325918/978502580202242108/dev-carreira.jpg">
- </div>
+
 ###  🚀Minhas Skills:    
  </div>
  
@@ -15,7 +13,7 @@ adiquirir e compartilhar novos conhecimentos.
   <img align="center" alt="Ailton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ailton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ailton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="Ailton-img" height="300" width="300"src="https://cdn.discordapp.com/attachments/777657638460325918/978502580202242108/dev-carreira.jpg">
 </div>
 
 ### Se você quiser entrar em contato comigo, aqui está minhas principais midias!: ⤵️  
