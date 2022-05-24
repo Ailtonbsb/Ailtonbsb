@@ -2,9 +2,12 @@
 
 Estou fazendo uma transição de carreira profissional e comecei a estudar o Curso de Analise e Desenvolvimento de Sistemas. Trabalhei em algumas empresas na área financeira e em grandes bancos, atuando no setor operacional e comercial. Estou disposto colocar minhas habilidades em prática, colaborar com equipes de trabalho, 
 adiquirir e compartilhar novos conhecimentos.
+ </div>
+<img align="right" alt="Ailton-img" height="400" width="400"src="https://cdn.discordapp.com/attachments/777657638460325918/978502580202242108/dev-carreira.jpg">
+ </div>
 ###  🚀Minhas Skills:    
  </div>
- <img align="right" alt="Ailton-img" height="400" width="400"src="https://cdn.discordapp.com/attachments/777657638460325918/978502580202242108/dev-carreira.jpg">
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ailton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ailton-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -24,7 +27,7 @@ adiquirir e compartilhar novos conhecimentos.
 ### Sobre meu ✨GitHub✨
 </div>
   
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/Ailtonbsb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailtonbsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
