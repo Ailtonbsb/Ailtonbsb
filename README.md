@@ -1,7 +1,7 @@
 
 #  Olá, sou Ailton Macêdo!! 👋
 </div>
-<img align="right" alt="Ailton-img" height="250" width="400"src="https://media.discordapp.net/attachments/978649497561362503/1242631000513581117/shutterstock_1122339353.png?ex=664e89cd&is=664d384d&hm=620aa1233a610f50d716ce42f95f4aff40abd8e257af994d859c449dd8e4be5b&=&format=webp&quality=lossless&width=1152&height=676">
+<img align="right" alt="Ailton-img" height="250" width="400"src="https://cdn.discordapp.com/attachments/978649497561362503/978649573079801857/shutterstock_1122339353.jpg?ex=664df1f0&is=664ca070&hm=135e0c3e3944af9e5e2e70448479cf058269756c6792e5afb640758332c8f5c9&">
 </div>
 Estou fazendo uma transição de carreira profissional e comecei a estudar o Curso de Analise e Desenvolvimento de Sistemas. Trabalhei em algumas empresas na área financeira e em grandes bancos, atuando no setor operacional e comercial. Estou disposto colocar minhas habilidades em prática, colaborar com equipes de trabalho, 
 adiquirir e compartilhar novos conhecimentos.
