@@ -1,36 +1,73 @@
+# 👋 Olá, sou Ailton Macêdo!
 
-#  Olá, sou Ailton Macêdo!! 👋
-</div>
-<img align="right" alt="Ailton-img" height="250" width="400"src="https://cdn.discordapp.com/attachments/978649497561362503/978649573079801857/shutterstock_1122339353.jpg?ex=664df1f0&is=664ca070&hm=135e0c3e3944af9e5e2e70448479cf058269756c6792e5afb640758332c8f5c9&">
-</div>
-Estou fazendo uma transição de carreira profissional e comecei a estudar o Curso de Analise e Desenvolvimento de Sistemas. Trabalhei em algumas empresas na área financeira e em grandes bancos, atuando no setor operacional e comercial. Estou disposto colocar minhas habilidades em prática, colaborar com equipes de trabalho, 
-adiquirir e compartilhar novos conhecimentos.
+### 🌟 Sobre Mim  
+- 🎓 **Transição de Carreira**: Estudante de **Análise e Desenvolvimento de Sistemas**.  
+- 💼 **Experiência Profissional**: Atuação no setor **financeiro** e em **grandes bancos**, com foco no **operacional** e **comercial**.  
+- 🚀 **Habilidades**: Trabalho em equipe, aprendizado contínuo e compartilhamento de conhecimentos.  
 
-##  🚀Minhas Skills:    
- </div>
- 
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Ailton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="Ailton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ailton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ailton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ailton-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+---
+
+
+### 🚀 Minhas Skills
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="50" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="50" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="50" style="margin: 10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="50" style="margin: 10px;">
 </div>
 
-## Se você quiser entrar em contato comigo, aqui estão minhas principais midias!: ⤵️  
-<div> 
-  <a href="https://instagram.com/ailtonbsb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href ="mailto:ailtonbsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ailton-macedo-72563b9a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-### Sobre meu ✨GitHub✨
-</div>
-  
-  <div align="left">
+---
+
+### 📊 Minhas Estatísticas
+
+<div align="center">
+  <!-- Gráfico de Atividades -->
   <a href="https://github.com/Ailtonbsb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailtonbsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ailtonbsb&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph">
+  </a>
 
+  <!-- Estatísticas Gerais -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <a href="https://github.com/Ailtonbsb">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ailtonbsb&show_icons=true&theme=merko&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/Ailtonbsb">
+      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ailtonbsb&theme=highcontrast&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&dates=ffffff" alt="GitHub Streak Stats">
+    </a>
+  </div>
+
+  <!-- Linguagens Mais Usadas -->
+  <a href="https://github.com/Ailtonbsb">
+    <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ailtonbsb&layout=compact&theme=highcontrast&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" alt="Top Languages">
+  </a>
 </div>
-  
+
+
+---
+
+### 🌐 Vamos nos Conectar?
+<div align="center">
+  <a href="https://instagram.com/ailtonbsb" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:ailtonbsb@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/ailton-macedo-72563b9a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+### ✨ Extra
+- 🌱 Atualmente aprendendo **Node.js** e **TypeScript**.
+- 🎯 Foco em desenvolvimento full stack e boas práticas de programação.
+- 💡 Interessado em colaborar em projetos que impactem positivamente a sociedade.
+
+---
+
+<div align="center">
+  <img src="https://github.com/Ailtonbsb/Ailtonbsb/blob/main/assets/footer.gif" alt="Footer Animation" style="width: 100%; border-radius: 10px;">
+</div>
