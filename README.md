@@ -5,7 +5,7 @@
 - 💼 **Experiência Profissional**: Atuação no setor **financeiro** e em **grandes bancos**, com foco no **operacional** e **comercial**.  
 - 🚀 **Habilidades**: Trabalho em equipe, aprendizado contínuo e compartilhamento de conhecimentos.  
 
-----
+---
 
 
 ### 🚀 Minhas Skills
